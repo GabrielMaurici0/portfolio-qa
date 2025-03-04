@@ -26,7 +26,7 @@ Bem-vindo ao meu portfólio de QA! Aqui você encontrará uma coleção de proje
 
 ## 📌 Sobre Mim  
 💼 Profissional de QA com experiência em testes funcionais e automatizados  
-🔧 Ferramentas: Selenium, Cypress, Katalon, Postman, Azure Devops
+🔧 Ferramentas: Selenium, Cypress, Katalon, Postman, Azure Devops  
 📝 Em preparação para tirar certificação CTFL
 
 
