@@ -1,26 +1,34 @@
 # 🧪 QA Portfolio - Gabriel Mauricio
 
 ## 📌 Descrição  
-Bem-vindo ao meu portfólio de Quality Assurance! Aqui você encontrará exemplos de testes manuais e automatizados realizados em diferentes projetos. Meu objetivo é demonstrar minhas habilidades em testes funcionais, testes automatizados, relatórios de bugs e análise de qualidade de software.
+Bem-vindo ao meu portfólio de QA! Aqui você encontrará uma coleção de projetos e exemplos que demonstram minhas habilidades em qualidade de software e teste. Neste repositório, você verá:
 
-## 📌 Sobre Mim  
-💼 Profissional de QA com experiência em testes funcionais e automatizados  
-🔧 Ferramentas: Selenium, Cypress, Katalon, Postman, TestRail, Azure Devops
-📝 Em preparação para tirar certificação CTFL
+- Planos de Teste
+- Casos de Teste (Manuais e Automatizados)
+- Exemplos de Testes automatizados com Selenium e Katalon
+- Scripts de Testes
 
 ---
 
-## ⚙️ Como Executar os Testes  
+## ✅ Como usar este repositório
 
-### 🔹 Testes Automatizados (Selenium)  
-```bash
-# Instalar Python
-https://www.python.org/downloads/
+  1. Navegue pelos diretórios para explorar projetos
+  2. Cada projeto possui uma documentação que explica como os testes foram planejados, executados e analisados
+  3. Veja os exemplos de testes automatizados e manuais para entender a abordagem que utilizo em diferentes cenários
 
-# Clone o repositório
-git clone https://github.com/seuusuario/projeto-cypress.git](https://github.com/GabrielMaurici0/Selenium-New.git
+## 💻 Ferramentas e Tecnologias 
 
-# Instale as dependências
-pip install -r requirements.txt
+  - Selenium
+  - Katalon
+  - Azure DevOps
 
-Para executar basta clicar em run code no VSCode
+---
+
+## 📌 Sobre Mim  
+💼 Profissional de QA com experiência em testes funcionais e automatizados  
+🔧 Ferramentas: Selenium, Cypress, Katalon, Postman, Azure Devops
+📝 Em preparação para tirar certificação CTFL
+
+
+
+
