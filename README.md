@@ -21,6 +21,8 @@ Bem-vindo ao meu portfólio de QA! Aqui você encontrará uma coleção de proje
   - Selenium
   - Katalon
   - Azure DevOps
+  - Cucumber
+  - Gherkin
 
 ---
 
